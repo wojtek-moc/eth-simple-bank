@@ -3,7 +3,7 @@
 pragma solidity ^0.8.11;
 
 contract SimpleBank {
-    uint totalBankBalance = 0;
+    uint totalBankBalance = 100;
 
     struct deposit{
         uint depositTimestamp;
