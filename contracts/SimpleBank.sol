@@ -2,7 +2,7 @@
 
 pragma solidity ^0.8.11;
 
-contract SmartBank {
+contract SimpleBank {
     uint totalBankBalance = 0;
 
     struct deposit{
